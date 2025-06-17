@@ -15,7 +15,7 @@ Chatbot desenvolvido com Python, utilizando [Streamlit](https://streamlit.io/) p
 
 ```bash
 git clone https://github.com/JosielJrr/chatbot-gemini.git
-cd chatbot-gemin
+cd chatbot-gemini
 ```
 
 2. Instale as dependências:
