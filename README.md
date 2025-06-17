@@ -45,3 +45,4 @@ streamlit run main.py
 ## 📌 Observação
 
 Para que a aplicação funcione corretamente, é necessário possuir uma **chave de API válida do Google Gemini**. O arquivo `.env.example` fornece orientações para obtê-la e adicioná-la ao projeto.
+> 🚀 **Deploy:** [Acesse o chatbot online aqui](https://chatbot-gemini-nmxvt6umm4efyusmvyjza7.streamlit.app/)
